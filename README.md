@@ -4,9 +4,13 @@ A modern and responsive real-time cryptocurrency price tracker built with **Reac
 
 ---
 
+https://github.com/user-attachments/assets/fff8c339-1fb0-4b90-8afb-e7f62895e1c8
+
+
+
 ## 🌐 Live Preview
 
-> Coming Soon...
+> 
 
 ---
 
@@ -76,12 +80,10 @@ The app will be available at http://localhost:5173 (if using Vite).
 No `.env` required as CoinGecko and Binance WebSocket are public. However, make sure to handle rate limits and fallbacks if scaling.
 
 ## ✨ Screenshots
+![Screenshot (121)](https://github.com/user-attachments/assets/3401d302-3039-4177-8db6-d4d86247b7ce)
 
-Add screenshots here once deployed or styled further.
 
-## 📄 License
 
-MIT License
 
 
 
