@@ -85,5 +85,8 @@ No `.env` required as CoinGecko and Binance WebSocket are public. However, make 
 
 
 
+## Project URL
+
+https://crypto-tracker-git-main-koushal-kumars-projects.vercel.app/
 
 
